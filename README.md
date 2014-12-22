@@ -1,4 +1,6 @@
 candidate-questionnaire
 =======================
 
-2014 Candidate Open Data Questionnaire
+Candidate Open Data Questionnaire for Candidates
+
+[Check project page](http://codeforcroatia.org/projects/upitnik_o_otvorenim_podacima_za_kandidate)
